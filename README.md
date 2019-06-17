@@ -10,4 +10,4 @@ The [GeoNames geographical database](http://www.geonames.org) covers all countri
 
 ## Project
 
-Check out [my project page here](https://fannykassapian.github.io/iss.html).
+Want to know where the ISS is right now? Check out [my project page here](https://fannykassapian.github.io/iss.html).
